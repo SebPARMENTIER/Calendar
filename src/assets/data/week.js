@@ -1,30 +1,30 @@
 export default [
   {
     id: 0,
-    weekDay: 'sunday'
+    weekDay: 'sun'
   },
   {
     id: 1,
-    weekDay: 'monday'
+    weekDay: 'mon'
   },
   {
     id: 2,
-    weekDay: 'tuesday'
+    weekDay: 'tue'
   },
   {
     id: 3,
-    weekDay: 'wednesday'
+    weekDay: 'wed'
   },
   {
     id: 4,
-    weekDay: 'thursday'
+    weekDay: 'thu'
   },
   {
     id: 5,
-    weekDay: 'friday'
+    weekDay: 'fri'
   },
   {
     id: 6,
-    weekDay: 'saturday'
+    weekDay: 'sat'
   }
 ]
