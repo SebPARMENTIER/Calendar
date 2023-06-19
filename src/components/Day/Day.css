@@ -1,0 +1,30 @@
+.days {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 3em;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+}
+
+.table {
+  table-layout: fixed;
+  width: 50%;
+}
+
+.day {
+  height: 4.5vh;
+}
+
+.week {
+  /* width: 100%; */
+  padding-block: 1em;
+}
+
+.red {
+  background-color: red;
+  border-radius: 50%;
+}

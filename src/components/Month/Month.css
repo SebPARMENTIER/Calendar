@@ -1,0 +1,14 @@
+.monthes {
+  width: 75%;
+  margin: 1em auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.month {
+  width: 25%;
+  margin: 0.5em;
+  text-align: center;
+}
